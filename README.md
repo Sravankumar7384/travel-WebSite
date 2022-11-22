@@ -9,10 +9,9 @@ Industry : Lifestyle
 
 Project Title : Travel tourism system Website 
 
-project link : https://sravankumar7384.github.io/travel-WebSite/
+project link : https://sravankumar7384.github.io/travel-WebSite/  
 
 Demo link : https://youtu.be/H9aPdwrSDRc
-
 
 Problem Statement/Opportunity : This application is developed to provide best travelling services for the customers. I have developed tours and travel management system to provide a search platform where a tourist can find their tour places according to their choices. Build a website that have: Home Page, Services Page, About Us page,Login page,Register page,Contact Us page.
 
